@@ -41,3 +41,9 @@ Changes to Outputs:
         ORDER BY calls DESC, country.id ASC;
     EOT
 ```
+
+# Requires
+
+* jq
+* sqlfluff
+* bash shell
